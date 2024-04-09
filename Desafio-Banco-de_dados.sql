@@ -1,4 +1,4 @@
-SELECT Nome, Ano FROM Filmes
+SELECT * FROM Filmes
 
 -- 1 Buscar o Nome e ano dos filmes
 SELECT 
